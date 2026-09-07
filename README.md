@@ -7,3 +7,6 @@ dif - measurement difference, BatID - organsism ID
 <b>specME_v01.csv</b> - forearm measures:
 
 value - forearm length, sd_val - instrument measurement error, sd1 - observer measurement error 
+
+<b>Rcodefiles.R</b> - R analysis code TBA
+<nofiles yet>
